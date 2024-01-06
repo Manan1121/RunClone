@@ -6,7 +6,7 @@ runClone is an adrenaline-fueled endless runner game designed to test your refle
 
 Experience the thrill of the chase as you guide your character through a world where every second counts and every jump could be your last.
 
-![Gameplay Screenshot](Assets/Screenshot 2024-01-06 175000.png)
+![Gameplay Screenshot](/Assets/Screenshot%202024-01-06%20175000.png)
 
 ## Game Over/Restart Screen
 
