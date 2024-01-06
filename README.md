@@ -12,7 +12,7 @@ Experience the thrill of the chase as you guide your character through a world w
 
 Face your fate on the Game Over screen, where a moment's rest is your cue to restart the adventure. How far can you push the limits?
 
-![Game Over/Restart Screenshot]("Assets/Screenshot 2024-01-06 175022.png")
+![Game Over/Restart Screenshot](/Assets/Screenshot%202024-01-06%20175022.png)
 
 ## Features
 
